@@ -1,0 +1,16 @@
+.A{
+    background: pink;
+}
+.name1{
+    text-align: center;
+    background: pink;
+    height: 200px;
+}
+#about{
+    text-align: center;
+    background: pink;
+    height: 200px;
+    font-family: 'Merriweater',serif;
+    font-family: 'playfair Display SC',serif;
+
+}
